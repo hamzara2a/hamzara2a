@@ -35,10 +35,24 @@ I make small projects to improve my coding skills. Right now, Python is my favor
 
 ## 🖥 My Latest Project・最新プロジェクト
 ### SmartBrain
-This app detects faces on an image. The frontend sends the URL of the image, and the backend makes an API call to a face detection model on [Clarifai](https://www.clarifai.com/)
+This app detects faces on an image. The Frontend sends the URL of the image, and the Backend makes an API call to a face detection model on [Clarifai](https://www.clarifai.com/). I made this app to better understand how the Frontend and Backend work together
 
-#### [Frontend・フロントエンド](https://github.com/hamzara2a/Simplified_SmartBrain): HTML, CSS, ReactJS
-#### [Backend・バックエンド](https://github.com/hamzara2a/Python_SmartBrainServer): Python, Flask<br>
+画像の中の顔を見つけるのアプリです。フロントエンドは画像のURLをバックエンドに送信する。バックエンドは画像の中の顔の座標をレスポンスとしてフロントに送信する。このアプリを作ったの理由は、フロントとバックエンドを働き方を学びたかったのです。
+
+Demo Link・公開リンク: https://simple-smartbrain.netlify.app
+
+Frontend・フロントエンド: https://github.com/hamzara2a/Simplified_SmartBrain
+
+Backend・バックエンド: https://github.com/hamzara2a/Python_SmartBrainServer
+
+### How To Use・使い方
+#### 1. Login through the following credentials・以下の情報からログイン: 
+
+    Username: test@test.com
+    Password: test
+    
+#### 2. Insert a URL of an image containing a face・顔がある画像のURLを記入
+
 <!--
 **hamzara2a/hamzara2a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
