@@ -1,7 +1,7 @@
 # ☀️ Hi there ・初めまして
-I make small projects to improve my coding skills. Right now, Python is my favorite language. I have experience with writing code for Data Science, and Web Development
+I am a programmer based in Japan. I make small projects to improve my coding skills. Right now, Python is my favorite language. I have experience with writing code for Data Science, and Web Development
 
-私はプログラミングスキルを上るため、小規模プロジェクトを作っています。好きな言語はPython！データ分析とウェブ開発の経験があります！
+日本に在留しているプログラマーです！私はプログラミングスキルを上るため、小規模プロジェクトを作っています。好きな言語はPython！データ分析とウェブ開発の経験があります！
 
 ### Hobbies・趣味：
 - 🎸 Guitar・ギター
