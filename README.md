@@ -13,7 +13,7 @@ I am a programmer based in Japan. I make small projects to improve my coding ski
 - 📸 Photography・カメラ
   
 ---
-## 🔧 Languages and Tools・言語とツール
+# 🔧 Languages and Tools・言語とツール
 
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -33,7 +33,7 @@ I am a programmer based in Japan. I make small projects to improve my coding ski
 
 #
 
-## 🖥 My Latest Project・最新プロジェクト
+# 🖥 My Latest Project・最新プロジェクト
 ### SmartBrain
 This app detects faces on an image. The Frontend sends the URL of the image, and the Backend makes an API call to a face detection model on [Clarifai](https://www.clarifai.com/). I made this app to better understand how the Frontend and Backend work together
 
