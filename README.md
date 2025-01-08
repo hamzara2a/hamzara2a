@@ -30,8 +30,9 @@ I am a programmer based in Japan. I make small projects to improve my coding ski
 <img align="left" alt="Canva" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
 
 <br />
+<br />
 
-#
+---
 
 # 🖥 My Latest Project・最新プロジェクト
 ### SmartBrain
